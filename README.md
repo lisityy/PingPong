@@ -36,3 +36,6 @@ Ping pong game for hardware MZ_APO by Pimenova Olga and Bakhtigariev Robert.
 <span dir="ltr">main menu, simply press the middle switch.</span>
 
 ![Screenshot from 2023-07-02 18-56-40](https://github.com/lisityy/PingPong/assets/121680391/e3fa7f34-ea16-4cb6-966f-31c9c19d9afa)
+
+## <span dir="ltr">Programmer’s manual.</span>
+[Here.](Programmers_manual.pdf)
